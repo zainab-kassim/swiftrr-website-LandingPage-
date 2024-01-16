@@ -1,0 +1,67 @@
+body{
+    margin: 0px;
+}
+.nav-item{
+    margin-right: 20px;
+    font-size: 15px;
+    font-weight: lighter;
+}
+.nav1{
+    background-color: whitesmoke;
+    padding-top: 1%;
+    padding-bottom: 1.5%;
+    font-family: Helvetica;
+}
+.nav1 a{
+    text-decoration: none;
+    color: black;
+    /* font-size: larger; */
+}
+#home{
+    color: black;
+    font-weight: bolder;
+    margin-left: 10%;
+    margin-right: 42%;
+    padding: 0.5%;
+    font-size: 25px;
+}
+.container{
+    margin-top: 10%;
+    margin-right: 30%;
+    margin-left: 30%;
+    color: black;
+    text-align: center;
+}
+input{
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+#p2{
+    width: 69.7%;
+    margin-top: 3px;
+    padding-bottom: 8%;
+}
+#p3{
+    width: 69.7%;
+    margin-top: 3px;
+}
+.btn{
+    background-color: black;
+    padding: 7px;
+    color: white;
+    border-style: none;
+    border-radius: 5px;
+    margin-right: 64.5%;
+    margin-top: 3px;
+}
+.ft{
+    margin-top: 10%;
+    text-align: center;
+    padding: 3%;
+    background-color: whitesmoke;
+}
+.footer-icon{
+    margin-left: 10px;
+
+}

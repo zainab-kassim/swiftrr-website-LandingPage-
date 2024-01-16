@@ -1,0 +1,105 @@
+body{
+    margin: 0px;
+}
+/* #head{
+    background-color:  rgb(79, 85, 83);
+    color: white;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-size: larger;
+    font-weight: bold;
+} */
+.nav-item{
+    margin-right: 20px;
+    font-size: 15px;
+    font-weight: lighter;
+}
+.nav1{
+    background-color: white;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-family: Helvetica;
+}
+.nav1 a{
+    text-decoration: none;
+    /* font-size: larger; */
+    color: black;
+
+}
+#home{
+    color: black;
+    font-weight: bolder;
+    margin-left: 10%;
+    margin-right: 42%;
+    padding: 0.5%;
+    font-size: 25px;
+}
+#txt{
+    font-size: 50px;
+
+    font-weight: bolder;
+    font-style: normal;
+}
+.headercontainer{
+    background-color: whitesmoke; 
+    text-align: center;
+
+}
+#btn{
+    background-color: rgb(0, 102, 255);
+    color: white;
+    border-radius: 5px;
+    border-style: none;
+    padding:8px;
+}
+#btn-h{
+    padding-top: 2%;
+    padding-bottom: 4%;
+
+}
+.col{
+    margin-left: 9%;
+    float: left;
+
+}
+.section-hd{
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 7px;
+
+}
+.row{
+    margin-top: 5%;
+}
+.icon{
+    margin-left: 43%;
+   
+}
+.con{
+    margin-right: 9px;
+}
+.footer-icon{
+    margin-left: 10px;
+
+}
+.ft{
+    margin-top: 1%;
+    text-align: center;
+    padding: 3%;
+}
+.headercontainer2{
+    background-color: whitesmoke;
+    text-align: center;
+    margin-top: 20%;
+    padding: 4%;
+}
+#txt-1{
+    font-size: 25px;
+    font-weight: bolder;
+    font-style: normal;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}

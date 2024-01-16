@@ -1,0 +1,86 @@
+body{
+    margin: 0px;
+}
+.nav-item{
+    margin-right: 20px;
+    font-size: 15px;
+    font-weight: lighter;
+}
+.nav1{
+    background-color: white;
+    padding-top: 1%;
+    padding-bottom: 1.5%;
+    font-family: Helvetica;
+}
+.nav1 a{
+    text-decoration: none;
+    color: black;
+    /* font-size: larger; */
+}
+#home{
+    color: black;
+    font-weight: bolder;
+    margin-left: 10%;
+    margin-right: 42%;
+    padding: 0.5%;
+    font-size: 25px;
+}
+.head{
+    font-size: 40px;
+    font-weight: bolder;
+    font-style: normal;
+}
+.headercontainer{
+    background-color: whitesmoke;
+    text-align: center;
+    padding-top: 1%; 
+}
+.txt{
+    padding-bottom: 3%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#txt-1{
+    text-align: center;
+}
+.section-hd{
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 7px;
+
+}
+.s-icon{
+    margin-left: 45%;
+}
+
+/* style for grid */
+.row{
+    margin: 2% 10%;
+    padding-top: 5%;
+}
+.column {
+    width: 45%; 
+    float: left; 
+    margin-right: 5%;
+}
+.txt-2{
+    padding-top: 10%;
+}
+.txt-3{
+    text-align: center;
+}
+.txt-4{
+    margin-bottom: 6%;
+}
+.ft{
+    margin-top: 27%;
+    text-align: center;
+    padding: 3%;
+    background-color: whitesmoke;
+}
+.footer-icon{
+    margin-left: 10px;
+
+}
